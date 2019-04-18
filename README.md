@@ -6,4 +6,4 @@ This repository includes three parts of code used:
 * Model Training 
 * Application Showcase
 
-Related code will be shared in branches accordingly, with related README as introduction.
+Related code will be shared in different folder accordingly, with related README as introduction.
