@@ -1,0 +1,9 @@
+pandas
+datetime
+numpy
+uuid
+pdfkit
+flask
+tablib
+sklearn
+joblib
