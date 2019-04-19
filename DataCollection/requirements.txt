@@ -1,0 +1,10 @@
+pandas
+matplotlib
+numpy
+sklearn
+nltk
+habanero
+urllib
+json
+string
+	

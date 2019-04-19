@@ -1,8 +1,9 @@
 # README #
 
-This repository is for NUS BT4222 project work from DeepSyntax, including three parts of code used: 
+This repository is for NUS BT4222 project work from DeepSyntax, including four parts of code used: 
 
 * Data Collection
+* Exploratory Data Analysis
 * Model Training 
 * Application Showcase
 
